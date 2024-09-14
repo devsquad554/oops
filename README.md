@@ -121,6 +121,4 @@ License
 
 This repository is licensed under the MIT License.
 
-Author
-
-Your Name – [DevsInProgress](https://github.com/devsquad554)
+Author- [DevsInProgress](https://github.com/devsquad554)

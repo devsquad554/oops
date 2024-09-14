@@ -123,4 +123,4 @@ This repository is licensed under the MIT License.
 
 Author
 
-Your Name – [Your GitHub Profile](https://github.com/devsquad554)
+Your Name – [DevsInProgress](https://github.com/devsquad554)
